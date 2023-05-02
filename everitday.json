@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "everitday",
+  "private_key_id": "1c16b9874015944892b21854ff398b4833373d6a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDO23DPpYxTLfea\nxZmCxCTXvr+SLa2r9XcAznAIcnGiqPQAny4TRJYoqd9bjcof+JHfP7Cw08OvmVSl\nmjzYnua11Y5FD9T20wf8CrG0bJv2yAGoKK+eR+mf4m9at3IGcR2Ijs7dRQscUUiB\n1adnLhDD3m1Nlc2PC3yXYs9cNqIXsjAnsSyRiPvKZsBGIrtU6xhWEYvuuC6lks/l\nKQynIkCoaefooKE/dZheGI1PSvdMIj0O2msK6NNoiWXVDfEsBoW7lm4bXZB30U+C\n6Kr71eiKnxjaLln9RSEw3cfGlQA+PUjxNlwF3oj5uZLoDag56vdn7gzE79wbz6sa\nNKD2WaZZAgMBAAECggEATUzmtsoECs9qMG24JIw8wly3RR6JwHFds7DxX864lVLy\nv8q8Upn2TSLR42o0hscCZ/1qf2HbRiMT5UCijUawK3IvFLLKYCRTXwX2C1js3Yc3\nS0pM+magMM3S1AEqfKrHoRDQ0BItiTr8z/vx71ZhEHjtuqkI5HQj7oSPvcNyxkx1\nd0f95O2DFNabEdhI0G3u6gRKqqS+Ukuc6bGfrJzXbllCDjmmO11vj2yveq4z6DL2\n06UaLpgqKaOap1x1wcFDKBRSsc4q/XToj80VXZMQXdOn71WPv4su/vdfEOJA/Jyt\nB9/DfgQIgxGk7vF6sst3meIM+V4D7DuX2qShFB/AuwKBgQDz6mpdWHW52SjMT2K1\naCGHaasj1aLUmv2Q9V+By2BIEiDaaZthTU3Sabd9JvaT27pZ59my/ByC+l2zuLBM\nA8ju6TPpv3W/7tNlyH4NUwRsgHp9S0vSFIhkx611T2IWhtNw/VsBrbdPLO1HInDr\nr4yetISiNIpr4iQ82CVSYDY1WwKBgQDZGwMSbSSL+5VUsl4tBbRuhI601Zl9JxV4\nlPnmRzb3Vf9KuZjfiZYx1NRPDgnSIJUjYpX5cy4gMRCP1JgWObPBokUNYu/G1rC3\nl992nZ+z3CZAUv0yGrQV7zAExqjUaiHqLUm3qS9Tm4KmLI9S4jQiDHhUOg3m0qJJ\n4l4gMXo9WwKBgHmCZcpqrvsOe4yMX5gPb+SNd3w6iQtwyrDUC+gU8Ln2jfdAdO9c\nG1Ce6ZGnP18ZLxRqs8C+Z1W4c8V8VBcKK6cY9YuUnYwn5Zfm8SSiHqoOtvaD9BmL\nsQbDkl3GVg7yy5KWJCgJ6i+/KdUuCyLeKSdGtmw30F0+It9MrgsDcv3RAoGAIRqe\nUEv2G6Yj8gM0mvbYuVVbETXUrqGsA3Pr2vIW7oXdZH6CUet/zF9gdCF22+R9+SRK\nK/wlF2GD3fqTqifoQelFUDI6z33i+kudFlAYjutNpddBpkcuGH4dO00zZxg7zaJU\nMD4K6lu3AzGeNQwq2No/6s/jWMPbXRq4MX553isCgYA9z0qy/ZxOy7OVgGvKAgO+\n8uamCwoxc2pKviR1PPmfgaKuQg7eruZ2zuE3yFzrcm6A/mpiLiXFSeObB93+Fo5n\nlikYUysu+5M532X4mf+NUsQBlXmv63VMhPznYzfN6hi2Om0KcLFquaL+Vb9v3S/A\nmG4GzQGp68kYg67XYg4T4g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "everitday@everitday.iam.gserviceaccount.com",
+  "client_id": "103463121800487352095",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/everitday%40everitday.iam.gserviceaccount.com"
+}
